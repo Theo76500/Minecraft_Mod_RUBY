@@ -1,0 +1,19 @@
+{
+
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+
+    "   ",
+    "X X",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "mainmod:basic_item"
+    }
+  },
+  "result": {
+    "item": "mainmod:tutorial_boots"
+  }
+
+}

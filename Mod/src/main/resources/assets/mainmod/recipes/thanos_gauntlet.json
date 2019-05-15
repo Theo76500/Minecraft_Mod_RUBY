@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:emerald"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:nether_star"
+    },
+    {
+      "item": "mainmod:basic_item"
+    },
+    {
+      "item": "mainmod:thanos_gauntlet_empty"
+    }
+  ],
+  "result": {
+    "item": "mainmod:thanos_gauntlet"
+  }
+}

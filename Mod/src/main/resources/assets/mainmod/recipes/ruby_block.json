@@ -1,0 +1,19 @@
+{
+
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "mainmod:basic_item"
+    }
+  },
+  "result": {
+    "item": "mainmod:ruby_block"
+  }
+
+}

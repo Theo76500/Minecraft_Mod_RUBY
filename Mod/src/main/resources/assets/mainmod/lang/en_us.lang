@@ -1,0 +1,21 @@
+itemGroup.mainmod.mod_ruby=Mod Ruby
+itemGroup.mainmod.marvel=Mod Marvel
+
+item.mainmod.itemBasic.name=Ruby
+item.mainmod.axeTutorial.name=Ruby Axe
+item.mainmod.pickaxeTutorial.name=Ruby Pickaxe
+item.mainmod.hoeTutorial.name=Ruby Hoe
+item.mainmod.shovelTutorial.name=Ruby Shovel
+item.mainmod.swordTutorial.name=Ruby Sword
+item.mainmod.helmetTutorial.name=Ruby Helmet
+item.mainmod.chestplateTutorial.name=Ruby Chestplate
+item.mainmod.leggingsTutorial.name=Ruby Leggings
+item.mainmod.bootsTutorial.name=Ruby Boots
+
+item.mainmod.thorHammer.name=Mjolnir
+item.mainmod.thanosGauntlet.name=Thanos Gauntlet
+item.mainmod.thanosGauntletEmpty.name=Thanos Gauntlet Empty
+item.mainmod.cashield.name=Captain America Shield
+
+tile.mainmod.blockBasic.name=Ruby Ore
+tile.mainmod.blockRuby.name=Ruby Block

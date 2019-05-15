@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "mainmod:items/thanos_gauntlet_empty"
+  }
+}

@@ -1,0 +1,22 @@
+{
+
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+
+    "XX ",
+    "X# ",
+    " # "
+  ],
+  "key": {
+    "X": {
+      "item": "mainmod:basic_item"
+    },
+    "#": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "mainmod:tutorial_axe"
+  }
+
+}
